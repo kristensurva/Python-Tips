@@ -37,4 +37,8 @@ body {
   		width: 50%;
   		padding: 10px;
   	}
-</style>
+	ul {
+		font-size: 30px;
+		font-family: "Courier";
+		color:#ffffff;
+	}
