@@ -1,0 +1,40 @@
+body {
+		background-image: url("Triangle-mosaic1.png");
+		background-repeat: repeat;
+		background-size: auto;
+		padding: 35px;
+		padding-top: 0px;
+	}
+
+	h1 {
+		font-size: 80px;
+		font-family: 'B612', sans-serif;
+		color:#ffffff;
+
+	}
+	h2 {
+		font-size: 50px;
+		font-family: "Courier";
+		color:#ffffff;
+
+	}
+	p {
+		font-size: 30px;
+		font-family: "Courier";
+		color:#ffffff;
+
+	}
+	img{
+		display:block;
+		margin-left: 0;
+		height: 400px;
+	}
+	* {
+  		box-sizing: border-box;
+	}
+	.column {
+  		float: left;
+  		width: 50%;
+  		padding: 10px;
+  	}
+</style>
