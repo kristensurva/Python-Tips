@@ -6,7 +6,7 @@ body {
 		padding-top: 0px;
 	}
 
-	h1{
+	h1 {
 		font-size: 70px;
 		font-family: 'B612', sans-serif;
 		color: #ffffff;
@@ -32,8 +32,6 @@ body {
 		margin-left: 20px;
 		opacity: 0.7;
 		text-decoration: none;
-
-
 	}
 	h3 a:hover{
 		font-size: 30px;
@@ -48,7 +46,6 @@ body {
 		margin-top: 8px;
 		margin-bottom: 8px;
 	}
-
 	p {
 		font-size: 20px;
 		font-family: "B612";
@@ -71,16 +68,12 @@ body {
   	.pealkirjariba {
   		margin-bottom: 0px;
   		background-color:#6A7075;
-
   	}
-
   	.vaheleheriba{
   		background-color: #6A7075;
   		margin-top: 0px;
 		padding-bottom: 10px;
- 
-  	}
-
+	}
 	ul {
 		font-size: 20px;
 		font-family: "B612";
@@ -93,24 +86,26 @@ body {
     	padding-bottom: 30px;
 	}
 	.left {
-    padding-left: 30px;
-    float: left;
+    	padding-left: 30px;
+    	float: left;
 	}
 	.right {
-    padding-top: 25px;
-    padding-right: -20px;
+    	padding-top: 25px;
+    	padding-right: -20px;
 	}
 	#Thonnypic{
 		padding-top: 30px;
-		padding-left: 12px;
+		padding-left: 16px;
 		padding-bottom: 420px;
-		width: 545px;
+		width: 565px;
 		height: auto;
 	}
 	#Pythoncodepic{
 		padding: 20px;
-		height: 400px;
+		width: 780px;
+		padding-top: 20px;
 		margin-bottom: 280px;
+		margin-left: 50px;
 	}
 
 	iframe {
@@ -118,18 +113,17 @@ body {
 	}
 
 	.button {
-  	background-color: #79A7C7;
- 	border: none;
- 	color: white;
-  	padding: 15px 32px;
-  	text-align: center;
-	text-decoration: none;
-	display: inline-block;
-	font-size: 16px;
-	margin: 4px 2px;
-	cursor: pointer;
-}
-
+	  	background-color: #79A7C7;
+	 	border: none;
+	 	color: white;
+	  	padding: 15px 32px;
+	  	text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		cursor: pointer;
+	}
 	.button:hover{
 		background-color: #709AB7;
 	}
@@ -142,9 +136,7 @@ body {
         white-space: -moz-pre-wrap;
         white-space: -o-pre-wrap;
         padding-top: 5px;
-
     }       
-    
     code {
         font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
         font-size: 105%;
