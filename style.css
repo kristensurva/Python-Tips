@@ -7,16 +7,16 @@ body {
 	}
 
 	h1{
-		font-size: 80px;
+		font-size: 70px;
 		font-family: 'B612', sans-serif;
-		color: #fffff3;
+		color: #ffffff;
 		margin: 0px;
 		margin-left: 20px;
 		padding-bottom: 15px;
 		margin-bottom: -20px;
 	}
 	h2 {
-		font-size: 60px;
+		font-size: 50px;
 		font-family: 'B612', sans-serif;
 		color:#ffffff;
 		margin-top: 0px;
@@ -32,6 +32,7 @@ body {
 		margin-left: 20px;
 		opacity: 0.6;
 		text-decoration: none;
+
 	}
 	h3 a:hover{
 		font-size: 30px;
@@ -54,7 +55,7 @@ body {
 
 	p {
 		font-size: 20px;
-		font-family: "Courier";
+		font-family: "B612";
 		color:#ffffff;
 
 	}
@@ -78,12 +79,13 @@ body {
   	.vaheleheriba{
   		background-color: #747A80;
   		margin-top: 0px;
-  		padding-bottom: 10px;
+		padding-bottom: 10px;
+ 
   	}
 
 	ul {
-		font-size: 25px;
-		font-family: "Courier";
+		font-size: 20px;
+		font-family: "B612";
 		color:#ffffff;
 	}
 	.left, .right {
