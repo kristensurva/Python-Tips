@@ -37,11 +37,7 @@ body {
 	}
 	h3 a:hover{
 		font-size: 30px;
-		font-family: 'B612', sans-serif;
 		color:#ffffff;
-		margin-top: 0px ;
-		margin-right: 60px;
-		margin-left: 20px;
 		opacity: 1;
 	}
 
@@ -163,4 +159,7 @@ body {
     }
     script {
     	margin-bottom: 40px;
+    }
+    li a {
+    	color:#A5D3F4;
     }
