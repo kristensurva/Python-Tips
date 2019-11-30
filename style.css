@@ -30,8 +30,10 @@ body {
 		margin-top: 0px ;
 		margin-right: 60px;
 		margin-left: 20px;
-		opacity: 0.6;
+		opacity: 0.7;
 		text-decoration: none;
+		border: 2px #6A7075;
+
 
 	}
 	h3 a:hover{
@@ -57,7 +59,9 @@ body {
 		font-size: 20px;
 		font-family: "B612";
 		color:#ffffff;
-
+	}
+	p a{
+		color:#A5D3F4;
 	}
 	img{
 		display:block;
@@ -72,12 +76,12 @@ body {
   	}
   	.pealkirjariba {
   		margin-bottom: 0px;
-  		background-color:#747A80;
+  		background-color:#6A7075;
 
   	}
 
   	.vaheleheriba{
-  		background-color: #747A80;
+  		background-color: #6A7075;
   		margin-top: 0px;
 		padding-bottom: 10px;
  
@@ -89,7 +93,7 @@ body {
 		color:#ffffff;
 	}
 	.left, .right {
-		background-color: #747A80;
+		background-color: #6A7075;
     	margin-top: 10px;
     	padding: 30px;
     	padding-bottom: 30px;
@@ -105,7 +109,7 @@ body {
 	#Thonnypic{
 		padding-top: 30px;
 		padding-left: 12px;
-		padding-bottom: 50px;
+		padding-bottom: 420px;
 		width: 545px;
 		height: auto;
 	}
@@ -116,3 +120,6 @@ body {
 		margin-bottom: 77px;
 	}
 
+	iframe {
+		margin-top: 1px;
+	}
