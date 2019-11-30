@@ -32,7 +32,6 @@ body {
 		margin-left: 20px;
 		opacity: 0.7;
 		text-decoration: none;
-		border: 2px #6A7075;
 
 
 	}
@@ -44,7 +43,6 @@ body {
 		margin-right: 60px;
 		margin-left: 20px;
 		opacity: 1;
-		border: 2px solid white;
 	}
 
 	h4 {
@@ -114,12 +112,55 @@ body {
 		height: auto;
 	}
 	#Pythoncodepic{
-		padding-left: 20px;
+		padding: 20px;
 		height: 400px;
-		padding-bottom: 20px;
-		margin-bottom: 77px;
+		margin-bottom: 280px;
 	}
 
 	iframe {
 		margin-top: 1px;
 	}
+
+	.button {
+  	background-color: #79A7C7;
+ 	border: none;
+ 	color: white;
+  	padding: 15px 32px;
+  	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+	.button:hover{
+		background-color: #709AB7;
+	}
+	pre {
+        font-family: "Courier 10 Pitch", Courier, monospace;
+        font-size: 100%;
+        line-height: 140%;
+        white-space: pre;
+        white-space: pre-wrap;
+        white-space: -moz-pre-wrap;
+        white-space: -o-pre-wrap;
+        padding-top: 5px;
+
+    }       
+    
+    code {
+        font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+        font-size: 105%;
+        line-height: 140%;
+        white-space: pre;
+        white-space: pre-wrap;
+        white-space: -moz-pre-wrap;
+        white-space: -o-pre-wrap;
+        background: #faf8f0;
+        padding-top: 2px;
+        padding-bottom: 2px;
+    }
+    script {
+    	margin-bottom: 40px;
+    }
