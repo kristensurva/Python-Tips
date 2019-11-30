@@ -24,22 +24,24 @@ body {
 	}
 
 	h3 a{
-		font-size: 40px;
+		font-size: 30px;
 		font-family: 'B612', sans-serif;
 		color:#A5D3F4;
 		margin-top: 0px ;
 		margin-right: 60px;
 		margin-left: 20px;
 		opacity: 0.6;
+		text-decoration: none;
 	}
 	h3 a:hover{
-		font-size: 40px;
+		font-size: 30px;
 		font-family: 'B612', sans-serif;
 		color:#ffffff;
 		margin-top: 0px ;
 		margin-right: 60px;
 		margin-left: 20px;
 		opacity: 1;
+		border: 2px solid white;
 	}
 
 	h4 {
@@ -111,3 +113,4 @@ body {
 		padding-bottom: 20px;
 		margin-bottom: 77px;
 	}
+
